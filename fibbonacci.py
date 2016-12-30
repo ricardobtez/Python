@@ -1,3 +1,6 @@
+# Author: Ricardo Benitez
+# Recursive fibbonacci series
+
 def fibbonacci(n):
 	if(not n):
 		return 0
