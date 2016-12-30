@@ -1,3 +1,6 @@
+# Author: Ricardo Benitez
+# Exercise Ackerman function by the suggestion of the book Think Python by Allen Downey
+
 def ack(m,n):
 	if(not m):
 		return n + 1

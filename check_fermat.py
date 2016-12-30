@@ -1,3 +1,6 @@
+# Author: Ricardo Benitez
+# Exercise Check Fermat from the book Think Python Form Allen Downey
+
 import math
 def check_fermat(a,b,c,n):
 	if (math.pow(a,n) + math.pow(b,n) - math.pow(c,n)) == 0.0:

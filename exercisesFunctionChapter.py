@@ -1,3 +1,6 @@
+# Author: Ricardo Benitez
+# Exercises suggested by Allen Downey in his book Think Python
+
 def right_justified(s):
 	print(' '*(70 - len(s)) + s)
 def do_twice(foo,value):

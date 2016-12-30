@@ -1,3 +1,6 @@
+# Author: Allen Downey
+# From the book Think Python by Allen Downey
+
 def countdown(n):
 	if n <= 0:
 		print("finished")

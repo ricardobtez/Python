@@ -1,3 +1,6 @@
+# Author: Ricardo Benitez
+# Exercise suggested in the book Think Python by Allen Downney
+
 def is_triangle(a,b,c):
 	if (a > (b+c)) or (b > (a+c)) or (c > (a+b)):
 		print("No")
